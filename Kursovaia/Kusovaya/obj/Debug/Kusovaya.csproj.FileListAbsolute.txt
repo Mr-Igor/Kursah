@@ -1,6 +1,0 @@
-C:\Users\Компьютер\Desktop\Prog\Kursovaia\Kusovaya\bin\Debug\Kusovaya.exe.config
-C:\Users\Компьютер\Desktop\Prog\Kursovaia\Kusovaya\bin\Debug\Kusovaya.exe
-C:\Users\Компьютер\Desktop\Prog\Kursovaia\Kusovaya\bin\Debug\Kusovaya.pdb
-C:\Users\Компьютер\Desktop\Prog\Kursovaia\Kusovaya\obj\Debug\Kusovaya.csprojResolveAssemblyReference.cache
-C:\Users\Компьютер\Desktop\Prog\Kursovaia\Kusovaya\obj\Debug\Kusovaya.exe
-C:\Users\Компьютер\Desktop\Prog\Kursovaia\Kusovaya\obj\Debug\Kusovaya.pdb
